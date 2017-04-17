@@ -1,7 +1,7 @@
 # test coverage for  [ramda (v0.23.0)](http://ramdajs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ramda.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ramda) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ramda.svg)](https://travis-ci.org/npmtest/node-npmtest-ramda)
 #### A practical functional library for JavaScript programmers.
 
-[![NPM](https://nodei.co/npm/ramda.png?downloads=true)](https://www.npmjs.com/package/ramda)
+[![NPM](https://nodei.co/npm/ramda.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ramda)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-ramda/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ramda/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ramda/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ramda/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ramda/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-ramda/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-ramda/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-ramda/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ramda/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-ramda/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-ramda%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-ramda/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-ramda/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-ramda/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ramda/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-ramda%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ramda/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-ramda/build/test-report.html](https://npmtest.github.io/node-npmtest-ramda/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-ramda/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-ramda/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-ramda/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ramda/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ramda/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ramda/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-ramda/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Scott Sauyet",
-        "email": "scott@sauyet.com",
         "url": "scott.sauyet.com"
     },
     "bugs": {
@@ -37,22 +42,18 @@
     "contributors": [
         {
             "name": "Michael Hurley",
-            "email": "mh@buzzdecafe.com",
             "url": "http://buzzdecafe.com"
         },
         {
             "name": "Scott Sauyet",
-            "email": "scott@sauyet.com",
             "url": "http://fr.umio.us"
         },
         {
             "name": "David Chambers",
-            "email": "dc@davidchambers.me",
             "url": "http://davidchambers.me"
         },
         {
             "name": "Graeme Yeates",
-            "email": "yeatesgraeme@gmail.com",
             "url": "https://github.com/megawac"
         }
     ],
@@ -93,37 +94,29 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "aromano",
-            "email": "aromano@preemptsecurity.com"
+            "name": "aromano"
         },
         {
-            "name": "buzzdecafe",
-            "email": "m_hur@yahoo.com"
+            "name": "buzzdecafe"
         },
         {
-            "name": "crosseye",
-            "email": "scott@sauyet.com"
+            "name": "crosseye"
         },
         {
-            "name": "davidchambers",
-            "email": "dc@davidchambers.me"
+            "name": "davidchambers"
         },
         {
-            "name": "kedashoe",
-            "email": "kwallace@gmail.com"
+            "name": "kedashoe"
         },
         {
-            "name": "rane",
-            "email": "raine.virta@gmail.com"
+            "name": "rane"
         },
         {
-            "name": "scott-christopher",
-            "email": "schristopher@konputa.com"
+            "name": "scott-christopher"
         }
     ],
     "name": "ramda",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/ramda/ramda.git"
