@@ -1,4 +1,7 @@
-# test coverage for  [ramda (v0.23.0)](http://ramdajs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ramda.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ramda) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ramda.svg)](https://travis-ci.org/npmtest/node-npmtest-ramda)
+# npmtest-ramda
+
+#### basic test coverage for  [ramda (v0.23.0)](http://ramdajs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ramda.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ramda) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ramda.svg)](https://travis-ci.org/npmtest/node-npmtest-ramda)
+
 #### A practical functional library for JavaScript programmers.
 
 [![NPM](https://nodei.co/npm/ramda.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ramda)
@@ -136,7 +139,8 @@
         "precoverage": "npm run pretest",
         "test": "mocha --reporter spec"
     },
-    "version": "0.23.0"
+    "version": "0.23.0",
+    "bin": {}
 }
 ```
 
