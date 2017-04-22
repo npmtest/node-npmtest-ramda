@@ -1,324 +1,324 @@
 <svg height="5134" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5134" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 11:55:42 +0000  2015868 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 11:55:42 +0000    43783 bytes  BOOKMARKLET.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 11:55:42 +0000      117 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 11:55:42 +0000     1103 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 11:55:42 +0000     6722 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 11:55:42 +0000   307387 bytes  dist/ramda.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 11:55:42 +0000    43112 bytes  dist/ramda.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 11:55:42 +0000     8621 bytes  index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 11:55:42 +0000     4246 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 11:55:42 +0000      342 bytes  src/F.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 11:55:42 +0000      339 bytes  src/T.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 11:55:42 +0000      726 bytes  src/__.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 11:55:42 +0000      420 bytes  src/add.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 11:55:42 +0000     1651 bytes  src/addIndex.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 11:55:42 +0000     1311 bytes  src/adjust.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 11:55:42 +0000     1104 bytes  src/all.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 11:55:42 +0000     1329 bytes  src/allPass.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 11:55:42 +0000      670 bytes  src/always.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 11:55:42 +0000      580 bytes  src/and.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 11:55:42 +0000     1143 bytes  src/any.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-17 11:55:42 +0000     1368 bytes  src/anyPass.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-17 11:55:42 +0000     1269 bytes  src/ap.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-17 11:55:42 +0000     1007 bytes  src/aperture.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-17 11:55:42 +0000      845 bytes  src/append.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-17 11:55:42 +0000      794 bytes  src/apply.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-17 11:55:42 +0000     1762 bytes  src/applySpec.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-17 11:55:42 +0000      859 bytes  src/ascend.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-17 11:55:42 +0000      896 bytes  src/assoc.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-17 11:55:42 +0000     1607 bytes  src/assocPath.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-17 11:55:42 +0000     1031 bytes  src/binary.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-17 11:55:42 +0000     1047 bytes  src/bind.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-17 11:55:42 +0000     1310 bytes  src/both.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-17 11:55:42 +0000     1229 bytes  src/call.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-17 11:55:42 +0000     1203 bytes  src/chain.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-17 11:55:42 +0000      928 bytes  src/clamp.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-17 11:55:42 +0000      880 bytes  src/clone.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-17 11:55:42 +0000      863 bytes  src/comparator.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-17 11:55:42 +0000      708 bytes  src/complement.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-17 11:55:42 +0000     1110 bytes  src/compose.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-17 11:55:42 +0000     1435 bytes  src/composeK.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-17 11:55:42 +0000     1390 bytes  src/composeP.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-17 11:55:42 +0000     1344 bytes  src/concat.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-17 11:55:42 +0000     1616 bytes  src/cond.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-17 11:55:42 +0000     1245 bytes  src/construct.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-17 11:55:42 +0000     2248 bytes  src/constructN.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-17 11:55:42 +0000      779 bytes  src/contains.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-17 11:55:42 +0000     1582 bytes  src/converge.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-17 11:55:42 +0000     1066 bytes  src/countBy.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-17 11:55:42 +0000     1370 bytes  src/curry.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-17 11:55:42 +0000     1603 bytes  src/curryN.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-17 11:55:42 +0000      282 bytes  src/dec.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-17 11:55:42 +0000      884 bytes  src/defaultTo.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-17 11:55:42 +0000      859 bytes  src/descend.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-17 11:55:42 +0000     1133 bytes  src/difference.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-17 11:55:42 +0000     1281 bytes  src/differenceWith.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-17 11:55:42 +0000      681 bytes  src/dissoc.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-17 11:55:42 +0000     1064 bytes  src/dissocPath.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-17 11:55:42 +0000      600 bytes  src/divide.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-17 11:55:42 +0000     1092 bytes  src/drop.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-17 11:55:42 +0000     1053 bytes  src/dropLast.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-17 11:55:42 +0000     1173 bytes  src/dropLastWhile.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-17 11:55:42 +0000      833 bytes  src/dropRepeats.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-17 11:55:42 +0000     1330 bytes  src/dropRepeatsWith.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-17 11:55:42 +0000     1289 bytes  src/dropWhile.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-17 11:55:42 +0000     1292 bytes  src/either.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-17 11:55:42 +0000     1297 bytes  src/empty.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-17 11:55:42 +0000      554 bytes  src/eqBy.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-17 11:55:42 +0000      761 bytes  src/eqProps.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-17 11:55:42 +0000      758 bytes  src/equals.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-17 11:55:42 +0000     1579 bytes  src/evolve.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-17 11:55:42 +0000     1419 bytes  src/filter.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-17 11:55:42 +0000     1135 bytes  src/find.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-17 11:55:42 +0000     1078 bytes  src/findIndex.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-17 11:55:42 +0000     1068 bytes  src/findLast.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-17 11:55:42 +0000     1092 bytes  src/findLastIndex.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-17 11:55:42 +0000      596 bytes  src/flatten.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-17 11:55:42 +0000      933 bytes  src/flip.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-17 11:55:42 +0000     1492 bytes  src/forEach.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-17 11:55:42 +0000     1077 bytes  src/forEachObjIndexed.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-17 11:55:42 +0000      780 bytes  src/fromPairs.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-17 11:55:42 +0000     1688 bytes  src/groupBy.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-17 11:55:42 +0000     1324 bytes  src/groupWith.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-17 11:55:42 +0000      551 bytes  src/gt.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-17 11:55:42 +0000      580 bytes  src/gte.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-17 11:55:42 +0000      832 bytes  src/has.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-17 11:55:42 +0000      854 bytes  src/hasIn.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-17 11:55:42 +0000      526 bytes  src/head.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-17 11:55:42 +0000      919 bytes  src/identical.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-17 11:55:42 +0000      555 bytes  src/identity.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-17 11:55:42 +0000     1387 bytes  src/ifElse.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-17 11:55:42 +0000      281 bytes  src/inc.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-17 11:55:42 +0000      950 bytes  src/indexBy.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-17 11:55:42 +0000      863 bytes  src/indexOf.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-17 11:55:42 +0000      607 bytes  src/init.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-17 11:55:42 +0000      902 bytes  src/insert.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-17 11:55:42 +0000      997 bytes  src/insertAll.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-17 11:55:42 +0000     4880 bytes  src/internal/_Set.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-17 11:55:42 +0000      268 bytes  src/internal/_aperture.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-17 11:55:42 +0000     1171 bytes  src/internal/_arity.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-17 11:55:42 +0000      170 bytes  src/internal/_arrayFromIterator.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-17 11:55:42 +0000      137 bytes  src/internal/_assign.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-17 11:55:42 +0000      824 bytes  src/internal/_checkForMethod.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-17 11:55:42 +0000     1134 bytes  src/internal/_clone.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-17 11:55:42 +0000      403 bytes  src/internal/_cloneRegExp.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-17 11:55:42 +0000      111 bytes  src/internal/_complement.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-17 11:55:42 +0000      698 bytes  src/internal/_concat.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-17 11:55:42 +0000      126 bytes  src/internal/_contains.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-17 11:55:42 +0000      212 bytes  src/internal/_containsWith.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-17 11:55:42 +0000      311 bytes  src/internal/_createPartialApplicator.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-17 11:55:42 +0000      441 bytes  src/internal/_curry1.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-17 11:55:42 +0000      789 bytes  src/internal/_curry2.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-17 11:55:42 +0000     1584 bytes  src/internal/_curry3.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-17 11:55:42 +0000     1161 bytes  src/internal/_curryN.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-17 11:55:42 +0000     1461 bytes  src/internal/_dispatchable.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-17 11:55:42 +0000      133 bytes  src/internal/_dropLast.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-17 11:55:42 +0000      199 bytes  src/internal/_dropLastWhile.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-17 11:55:42 +0000     2590 bytes  src/internal/_equals.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-17 11:55:42 +0000      238 bytes  src/internal/_filter.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-17 11:55:42 +0000     1008 bytes  src/internal/_flatCat.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-17 11:55:42 +0000      126 bytes  src/internal/_forceReduced.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-17 11:55:42 +0000      211 bytes  src/internal/_functionName.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-17 11:55:42 +0000      401 bytes  src/internal/_functionsWith.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-17 11:55:42 +0000      105 bytes  src/internal/_has.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-17 11:55:42 +0000       54 bytes  src/internal/_identity.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-17 11:55:42 +0000     1424 bytes  src/internal/_indexOf.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-17 11:55:42 +0000      319 bytes  src/internal/_isArguments.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-17 11:55:42 +0000      477 bytes  src/internal/_isArray.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-17 11:55:42 +0000      114 bytes  src/internal/_isFunction.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-17 11:55:42 +0000      219 bytes  src/internal/_isInteger.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-17 11:55:42 +0000      110 bytes  src/internal/_isNumber.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-17 11:55:42 +0000      110 bytes  src/internal/_isObject.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-17 11:55:42 +0000      154 bytes  src/internal/_isPlaceholder.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-17 11:55:42 +0000      110 bytes  src/internal/_isRegExp.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-17 11:55:42 +0000      110 bytes  src/internal/_isString.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-17 11:55:42 +0000      108 bytes  src/internal/_isTransformer.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-17 11:55:42 +0000      740 bytes  src/internal/_makeFlat.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-17 11:55:42 +0000      212 bytes  src/internal/_map.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-17 11:55:42 +0000      628 bytes  src/internal/_objectAssign.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-17 11:55:42 +0000       50 bytes  src/internal/_of.js</tspan>
-<tspan x="10" y="2250">139.  2017-04-17 11:55:42 +0000      121 bytes  src/internal/_pipe.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-17 11:55:42 +0000      182 bytes  src/internal/_pipeP.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-17 11:55:42 +0000      384 bytes  src/internal/_quote.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-17 11:55:42 +0000     1606 bytes  src/internal/_reduce.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-17 11:55:42 +0000      168 bytes  src/internal/_reduced.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-17 11:55:42 +0000     1211 bytes  src/internal/_stepCat.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-17 11:55:42 +0000      716 bytes  src/internal/_toISOString.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-17 11:55:42 +0000     1770 bytes  src/internal/_toString.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-17 11:55:42 +0000      775 bytes  src/internal/_xall.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-17 11:55:42 +0000      775 bytes  src/internal/_xany.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-17 11:55:42 +0000     1118 bytes  src/internal/_xaperture.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-17 11:55:42 +0000      191 bytes  src/internal/_xchain.js</tspan>
-<tspan x="10" y="2442">151.  2017-04-17 11:55:42 +0000      557 bytes  src/internal/_xdrop.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-17 11:55:42 +0000      928 bytes  src/internal/_xdropLast.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-17 11:55:42 +0000     1105 bytes  src/internal/_xdropLastWhile.js</tspan>
-<tspan x="10" y="2490">154.  2017-04-17 11:55:42 +0000      862 bytes  src/internal/_xdropRepeatsWith.js</tspan>
-<tspan x="10" y="2506">155.  2017-04-17 11:55:42 +0000      622 bytes  src/internal/_xdropWhile.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-17 11:55:42 +0000      175 bytes  src/internal/_xfBase.js</tspan>
-<tspan x="10" y="2538">157.  2017-04-17 11:55:42 +0000      526 bytes  src/internal/_xfilter.js</tspan>
-<tspan x="10" y="2554">158.  2017-04-17 11:55:42 +0000      789 bytes  src/internal/_xfind.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-17 11:55:42 +0000      856 bytes  src/internal/_xfindIndex.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-17 11:55:42 +0000      632 bytes  src/internal/_xfindLast.js</tspan>
-<tspan x="10" y="2602">161.  2017-04-17 11:55:42 +0000      732 bytes  src/internal/_xfindLastIndex.js</tspan>
-<tspan x="10" y="2618">162.  2017-04-17 11:55:42 +0000      491 bytes  src/internal/_xmap.js</tspan>
-<tspan x="10" y="2634">163.  2017-04-17 11:55:42 +0000     1261 bytes  src/internal/_xreduceBy.js</tspan>
-<tspan x="10" y="2650">164.  2017-04-17 11:55:42 +0000      637 bytes  src/internal/_xtake.js</tspan>
-<tspan x="10" y="2666">165.  2017-04-17 11:55:42 +0000      592 bytes  src/internal/_xtakeWhile.js</tspan>
-<tspan x="10" y="2682">166.  2017-04-17 11:55:42 +0000      417 bytes  src/internal/_xwrap.js</tspan>
-<tspan x="10" y="2698">167.  2017-04-17 11:55:42 +0000      983 bytes  src/intersection.js</tspan>
-<tspan x="10" y="2714">168.  2017-04-17 11:55:42 +0000     1960 bytes  src/intersectionWith.js</tspan>
-<tspan x="10" y="2730">169.  2017-04-17 11:55:42 +0000      917 bytes  src/intersperse.js</tspan>
-<tspan x="10" y="2746">170.  2017-04-17 11:55:42 +0000     2017 bytes  src/into.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-17 11:55:42 +0000     1035 bytes  src/invert.js</tspan>
-<tspan x="10" y="2778">172.  2017-04-17 11:55:42 +0000     1069 bytes  src/invertObj.js</tspan>
-<tspan x="10" y="2794">173.  2017-04-17 11:55:42 +0000     1566 bytes  src/invoker.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-17 11:55:42 +0000      838 bytes  src/is.js</tspan>
-<tspan x="10" y="2826">175.  2017-04-17 11:55:42 +0000     1133 bytes  src/isArrayLike.js</tspan>
-<tspan x="10" y="2842">176.  2017-04-17 11:55:42 +0000      708 bytes  src/isEmpty.js</tspan>
-<tspan x="10" y="2858">177.  2017-04-17 11:55:42 +0000      524 bytes  src/isNil.js</tspan>
-<tspan x="10" y="2874">178.  2017-04-17 11:55:42 +0000      688 bytes  src/join.js</tspan>
-<tspan x="10" y="2890">179.  2017-04-17 11:55:42 +0000      776 bytes  src/juxt.js</tspan>
-<tspan x="10" y="2906">180.  2017-04-17 11:55:42 +0000     2113 bytes  src/keys.js</tspan>
-<tspan x="10" y="2922">181.  2017-04-17 11:55:42 +0000      804 bytes  src/keysIn.js</tspan>
-<tspan x="10" y="2938">182.  2017-04-17 11:55:42 +0000      463 bytes  src/last.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-17 11:55:42 +0000     1018 bytes  src/lastIndexOf.js</tspan>
-<tspan x="10" y="2970">184.  2017-04-17 11:55:42 +0000      555 bytes  src/length.js</tspan>
-<tspan x="10" y="2986">185.  2017-04-17 11:55:42 +0000     1119 bytes  src/lens.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-17 11:55:42 +0000      779 bytes  src/lensIndex.js</tspan>
-<tspan x="10" y="3018">187.  2017-04-17 11:55:42 +0000      950 bytes  src/lensPath.js</tspan>
-<tspan x="10" y="3034">188.  2017-04-17 11:55:42 +0000      754 bytes  src/lensProp.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-17 11:55:42 +0000      888 bytes  src/lift.js</tspan>
-<tspan x="10" y="3066">190.  2017-04-17 11:55:42 +0000     1018 bytes  src/liftN.js</tspan>
-<tspan x="10" y="3082">191.  2017-04-17 11:55:42 +0000      548 bytes  src/lt.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-17 11:55:42 +0000      577 bytes  src/lte.js</tspan>
-<tspan x="10" y="3114">193.  2017-04-17 11:55:42 +0000     1989 bytes  src/map.js</tspan>
-<tspan x="10" y="3130">194.  2017-04-17 11:55:42 +0000     1465 bytes  src/mapAccum.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-17 11:55:42 +0000     1560 bytes  src/mapAccumRight.js</tspan>
-<tspan x="10" y="3162">196.  2017-04-17 11:55:42 +0000      891 bytes  src/mapObjIndexed.js</tspan>
-<tspan x="10" y="3178">197.  2017-04-17 11:55:42 +0000      942 bytes  src/match.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-17 11:55:42 +0000     1225 bytes  src/mathMod.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-17 11:55:42 +0000      419 bytes  src/max.js</tspan>
-<tspan x="10" y="3226">200.  2017-04-17 11:55:42 +0000      719 bytes  src/maxBy.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-17 11:55:42 +0000      429 bytes  src/mean.js</tspan>
-<tspan x="10" y="3258">202.  2017-04-17 11:55:42 +0000      709 bytes  src/median.js</tspan>
-<tspan x="10" y="3274">203.  2017-04-17 11:55:42 +0000     1227 bytes  src/memoize.js</tspan>
-<tspan x="10" y="3290">204.  2017-04-17 11:55:42 +0000      887 bytes  src/merge.js</tspan>
-<tspan x="10" y="3306">205.  2017-04-17 11:55:42 +0000      673 bytes  src/mergeAll.js</tspan>
-<tspan x="10" y="3322">206.  2017-04-17 11:55:42 +0000     1060 bytes  src/mergeWith.js</tspan>
-<tspan x="10" y="3338">207.  2017-04-17 11:55:42 +0000     1471 bytes  src/mergeWithKey.js</tspan>
-<tspan x="10" y="3354">208.  2017-04-17 11:55:42 +0000      420 bytes  src/min.js</tspan>
-<tspan x="10" y="3370">209.  2017-04-17 11:55:42 +0000      739 bytes  src/minBy.js</tspan>
-<tspan x="10" y="3386">210.  2017-04-17 11:55:42 +0000      791 bytes  src/modulo.js</tspan>
-<tspan x="10" y="3402">211.  2017-04-17 11:55:42 +0000      608 bytes  src/multiply.js</tspan>
-<tspan x="10" y="3418">212.  2017-04-17 11:55:42 +0000     2212 bytes  src/nAry.js</tspan>
-<tspan x="10" y="3434">213.  2017-04-17 11:55:42 +0000      315 bytes  src/negate.js</tspan>
-<tspan x="10" y="3450">214.  2017-04-17 11:55:42 +0000      956 bytes  src/none.js</tspan>
-<tspan x="10" y="3466">215.  2017-04-17 11:55:42 +0000      586 bytes  src/not.js</tspan>
-<tspan x="10" y="3482">216.  2017-04-17 11:55:42 +0000      940 bytes  src/nth.js</tspan>
-<tspan x="10" y="3498">217.  2017-04-17 11:55:42 +0000      672 bytes  src/nthArg.js</tspan>
-<tspan x="10" y="3514">218.  2017-04-17 11:55:42 +0000      651 bytes  src/objOf.js</tspan>
-<tspan x="10" y="3530">219.  2017-04-17 11:55:42 +0000      563 bytes  src/of.js</tspan>
-<tspan x="10" y="3546">220.  2017-04-17 11:55:42 +0000      787 bytes  src/omit.js</tspan>
-<tspan x="10" y="3562">221.  2017-04-17 11:55:42 +0000      967 bytes  src/once.js</tspan>
-<tspan x="10" y="3578">222.  2017-04-17 11:55:42 +0000      615 bytes  src/or.js</tspan>
-<tspan x="10" y="3594">223.  2017-04-17 11:55:42 +0000     1236 bytes  src/over.js</tspan>
-<tspan x="10" y="3610">224.  2017-04-17 11:55:42 +0000      425 bytes  src/pair.js</tspan>
-<tspan x="10" y="3626">225.  2017-04-17 11:55:42 +0000     1146 bytes  src/partial.js</tspan>
-<tspan x="10" y="3642">226.  2017-04-17 11:55:42 +0000     1034 bytes  src/partialRight.js</tspan>
-<tspan x="10" y="3658">227.  2017-04-17 11:55:42 +0000     1094 bytes  src/partition.js</tspan>
-<tspan x="10" y="3674">228.  2017-04-17 11:55:42 +0000      731 bytes  src/path.js</tspan>
-<tspan x="10" y="3690">229.  2017-04-17 11:55:42 +0000     1103 bytes  src/pathEq.js</tspan>
-<tspan x="10" y="3706">230.  2017-04-17 11:55:42 +0000      849 bytes  src/pathOr.js</tspan>
-<tspan x="10" y="3722">231.  2017-04-17 11:55:42 +0000      694 bytes  src/pathSatisfies.js</tspan>
-<tspan x="10" y="3738">232.  2017-04-17 11:55:42 +0000      904 bytes  src/pick.js</tspan>
-<tspan x="10" y="3754">233.  2017-04-17 11:55:42 +0000      908 bytes  src/pickAll.js</tspan>
-<tspan x="10" y="3770">234.  2017-04-17 11:55:42 +0000      913 bytes  src/pickBy.js</tspan>
-<tspan x="10" y="3786">235.  2017-04-17 11:55:42 +0000     1027 bytes  src/pipe.js</tspan>
-<tspan x="10" y="3802">236.  2017-04-17 11:55:42 +0000     1278 bytes  src/pipeK.js</tspan>
-<tspan x="10" y="3818">237.  2017-04-17 11:55:42 +0000      941 bytes  src/pipeP.js</tspan>
-<tspan x="10" y="3834">238.  2017-04-17 11:55:42 +0000      833 bytes  src/pluck.js</tspan>
-<tspan x="10" y="3850">239.  2017-04-17 11:55:42 +0000      654 bytes  src/prepend.js</tspan>
-<tspan x="10" y="3866">240.  2017-04-17 11:55:42 +0000      446 bytes  src/product.js</tspan>
-<tspan x="10" y="3882">241.  2017-04-17 11:55:42 +0000      882 bytes  src/project.js</tspan>
-<tspan x="10" y="3898">242.  2017-04-17 11:55:42 +0000      568 bytes  src/prop.js</tspan>
-<tspan x="10" y="3914">243.  2017-04-17 11:55:42 +0000      950 bytes  src/propEq.js</tspan>
-<tspan x="10" y="3930">244.  2017-04-17 11:55:42 +0000      681 bytes  src/propIs.js</tspan>
-<tspan x="10" y="3946">245.  2017-04-17 11:55:42 +0000     1008 bytes  src/propOr.js</tspan>
-<tspan x="10" y="3962">246.  2017-04-17 11:55:42 +0000      576 bytes  src/propSatisfies.js</tspan>
-<tspan x="10" y="3978">247.  2017-04-17 11:55:42 +0000      906 bytes  src/props.js</tspan>
-<tspan x="10" y="3994">248.  2017-04-17 11:55:42 +0000      840 bytes  src/range.js</tspan>
-<tspan x="10" y="4010">249.  2017-04-17 11:55:42 +0000     1822 bytes  src/reduce.js</tspan>
-<tspan x="10" y="4026">250.  2017-04-17 11:55:42 +0000     2329 bytes  src/reduceBy.js</tspan>
-<tspan x="10" y="4042">251.  2017-04-17 11:55:42 +0000     1879 bytes  src/reduceRight.js</tspan>
-<tspan x="10" y="4058">252.  2017-04-17 11:55:42 +0000     1411 bytes  src/reduceWhile.js</tspan>
-<tspan x="10" y="4074">253.  2017-04-17 11:55:42 +0000      836 bytes  src/reduced.js</tspan>
-<tspan x="10" y="4090">254.  2017-04-17 11:55:42 +0000      769 bytes  src/reject.js</tspan>
-<tspan x="10" y="4106">255.  2017-04-17 11:55:42 +0000      908 bytes  src/remove.js</tspan>
-<tspan x="10" y="4122">256.  2017-04-17 11:55:42 +0000      848 bytes  src/repeat.js</tspan>
-<tspan x="10" y="4138">257.  2017-04-17 11:55:42 +0000      895 bytes  src/replace.js</tspan>
-<tspan x="10" y="4154">258.  2017-04-17 11:55:42 +0000      890 bytes  src/reverse.js</tspan>
-<tspan x="10" y="4170">259.  2017-04-17 11:55:42 +0000      966 bytes  src/scan.js</tspan>
-<tspan x="10" y="4186">260.  2017-04-17 11:55:42 +0000     1280 bytes  src/sequence.js</tspan>
-<tspan x="10" y="4202">261.  2017-04-17 11:55:42 +0000      771 bytes  src/set.js</tspan>
-<tspan x="10" y="4218">262.  2017-04-17 11:55:42 +0000     1147 bytes  src/slice.js</tspan>
-<tspan x="10" y="4234">263.  2017-04-17 11:55:42 +0000      925 bytes  src/sort.js</tspan>
-<tspan x="10" y="4250">264.  2017-04-17 11:55:42 +0000     1170 bytes  src/sortBy.js</tspan>
-<tspan x="10" y="4266">265.  2017-04-17 11:55:42 +0000     1129 bytes  src/sortWith.js</tspan>
-<tspan x="10" y="4282">266.  2017-04-17 11:55:42 +0000      686 bytes  src/split.js</tspan>
-<tspan x="10" y="4298">267.  2017-04-17 11:55:42 +0000      802 bytes  src/splitAt.js</tspan>
-<tspan x="10" y="4314">268.  2017-04-17 11:55:42 +0000      792 bytes  src/splitEvery.js</tspan>
-<tspan x="10" y="4330">269.  2017-04-17 11:55:42 +0000     1029 bytes  src/splitWhen.js</tspan>
-<tspan x="10" y="4346">270.  2017-04-17 11:55:42 +0000      685 bytes  src/subtract.js</tspan>
-<tspan x="10" y="4362">271.  2017-04-17 11:55:42 +0000      415 bytes  src/sum.js</tspan>
-<tspan x="10" y="4378">272.  2017-04-17 11:55:42 +0000      852 bytes  src/symmetricDifference.js</tspan>
-<tspan x="10" y="4394">273.  2017-04-17 11:55:42 +0000     1190 bytes  src/symmetricDifferenceWith.js</tspan>
-<tspan x="10" y="4410">274.  2017-04-17 11:55:42 +0000      864 bytes  src/tail.js</tspan>
-<tspan x="10" y="4426">275.  2017-04-17 11:55:42 +0000     1575 bytes  src/take.js</tspan>
-<tspan x="10" y="4442">276.  2017-04-17 11:55:42 +0000      941 bytes  src/takeLast.js</tspan>
-<tspan x="10" y="4458">277.  2017-04-17 11:55:42 +0000      980 bytes  src/takeLastWhile.js</tspan>
-<tspan x="10" y="4474">278.  2017-04-17 11:55:42 +0000     1306 bytes  src/takeWhile.js</tspan>
-<tspan x="10" y="4490">279.  2017-04-17 11:55:42 +0000      587 bytes  src/tap.js</tspan>
-<tspan x="10" y="4506">280.  2017-04-17 11:55:42 +0000      810 bytes  src/test.js</tspan>
-<tspan x="10" y="4522">281.  2017-04-17 11:55:42 +0000     1125 bytes  src/times.js</tspan>
-<tspan x="10" y="4538">282.  2017-04-17 11:55:42 +0000      390 bytes  src/toLower.js</tspan>
-<tspan x="10" y="4554">283.  2017-04-17 11:55:42 +0000      850 bytes  src/toPairs.js</tspan>
-<tspan x="10" y="4570">284.  2017-04-17 11:55:42 +0000      880 bytes  src/toPairsIn.js</tspan>
-<tspan x="10" y="4586">285.  2017-04-17 11:55:42 +0000     1402 bytes  src/toString.js</tspan>
-<tspan x="10" y="4602">286.  2017-04-17 11:55:42 +0000      390 bytes  src/toUpper.js</tspan>
-<tspan x="10" y="4618">287.  2017-04-17 11:55:42 +0000     2340 bytes  src/transduce.js</tspan>
-<tspan x="10" y="4634">288.  2017-04-17 11:55:42 +0000     1261 bytes  src/transpose.js</tspan>
-<tspan x="10" y="4650">289.  2017-04-17 11:55:42 +0000     1160 bytes  src/traverse.js</tspan>
-<tspan x="10" y="4666">290.  2017-04-17 11:55:42 +0000     1114 bytes  src/trim.js</tspan>
-<tspan x="10" y="4682">291.  2017-04-17 11:55:42 +0000     1301 bytes  src/tryCatch.js</tspan>
-<tspan x="10" y="4698">292.  2017-04-17 11:55:42 +0000      903 bytes  src/type.js</tspan>
-<tspan x="10" y="4714">293.  2017-04-17 11:55:42 +0000      838 bytes  src/unapply.js</tspan>
-<tspan x="10" y="4730">294.  2017-04-17 11:55:42 +0000      990 bytes  src/unary.js</tspan>
-<tspan x="10" y="4746">295.  2017-04-17 11:55:42 +0000     1089 bytes  src/uncurryN.js</tspan>
-<tspan x="10" y="4762">296.  2017-04-17 11:55:42 +0000     1286 bytes  src/unfold.js</tspan>
-<tspan x="10" y="4778">297.  2017-04-17 11:55:42 +0000      647 bytes  src/union.js</tspan>
-<tspan x="10" y="4794">298.  2017-04-17 11:55:42 +0000     1023 bytes  src/unionWith.js</tspan>
-<tspan x="10" y="4810">299.  2017-04-17 11:55:42 +0000      562 bytes  src/uniq.js</tspan>
-<tspan x="10" y="4826">300.  2017-04-17 11:55:42 +0000     1072 bytes  src/uniqBy.js</tspan>
-<tspan x="10" y="4842">301.  2017-04-17 11:55:42 +0000     1204 bytes  src/uniqWith.js</tspan>
-<tspan x="10" y="4858">302.  2017-04-17 11:55:42 +0000     1186 bytes  src/unless.js</tspan>
-<tspan x="10" y="4874">303.  2017-04-17 11:55:42 +0000      565 bytes  src/unnest.js</tspan>
-<tspan x="10" y="4890">304.  2017-04-17 11:55:42 +0000      823 bytes  src/until.js</tspan>
-<tspan x="10" y="4906">305.  2017-04-17 11:55:42 +0000      979 bytes  src/update.js</tspan>
-<tspan x="10" y="4922">306.  2017-04-17 11:55:42 +0000     1768 bytes  src/useWith.js</tspan>
-<tspan x="10" y="4938">307.  2017-04-17 11:55:42 +0000      767 bytes  src/values.js</tspan>
-<tspan x="10" y="4954">308.  2017-04-17 11:55:42 +0000      803 bytes  src/valuesIn.js</tspan>
-<tspan x="10" y="4970">309.  2017-04-17 11:55:42 +0000     1037 bytes  src/view.js</tspan>
-<tspan x="10" y="4986">310.  2017-04-17 11:55:42 +0000     1293 bytes  src/when.js</tspan>
-<tspan x="10" y="5002">311.  2017-04-17 11:55:42 +0000     1453 bytes  src/where.js</tspan>
-<tspan x="10" y="5018">312.  2017-04-17 11:55:42 +0000     1100 bytes  src/whereEq.js</tspan>
-<tspan x="10" y="5034">313.  2017-04-17 11:55:42 +0000      798 bytes  src/without.js</tspan>
-<tspan x="10" y="5050">314.  2017-04-17 11:55:42 +0000      959 bytes  src/xprod.js</tspan>
-<tspan x="10" y="5066">315.  2017-04-17 11:55:42 +0000      981 bytes  src/zip.js</tspan>
-<tspan x="10" y="5082">316.  2017-04-17 11:55:42 +0000      930 bytes  src/zipObj.js</tspan>
-<tspan x="10" y="5098">317.  2017-04-17 11:55:42 +0000     1138 bytes  src/zipWith.js</tspan>
-<tspan x="10" y="5114">318.  2017-04-17 11:55:42 +0000  1316646 bytes  tmp-test-bundle.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 09:33:26 +0000  2015868 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 09:33:26 +0000    43783 bytes  BOOKMARKLET.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 09:33:26 +0000      117 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 09:33:26 +0000     1103 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 09:33:26 +0000     6722 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 09:33:26 +0000   307387 bytes  dist/ramda.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 09:33:26 +0000    43112 bytes  dist/ramda.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 09:33:26 +0000     8621 bytes  index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 09:33:26 +0000     4246 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 09:33:26 +0000      342 bytes  src/F.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 09:33:26 +0000      339 bytes  src/T.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 09:33:26 +0000      726 bytes  src/__.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 09:33:26 +0000      420 bytes  src/add.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 09:33:26 +0000     1651 bytes  src/addIndex.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 09:33:26 +0000     1311 bytes  src/adjust.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 09:33:26 +0000     1104 bytes  src/all.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 09:33:26 +0000     1329 bytes  src/allPass.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 09:33:26 +0000      670 bytes  src/always.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 09:33:26 +0000      580 bytes  src/and.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 09:33:26 +0000     1143 bytes  src/any.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 09:33:26 +0000     1368 bytes  src/anyPass.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 09:33:26 +0000     1269 bytes  src/ap.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 09:33:26 +0000     1007 bytes  src/aperture.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 09:33:26 +0000      845 bytes  src/append.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 09:33:26 +0000      794 bytes  src/apply.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 09:33:26 +0000     1762 bytes  src/applySpec.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 09:33:26 +0000      859 bytes  src/ascend.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 09:33:26 +0000      896 bytes  src/assoc.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 09:33:26 +0000     1607 bytes  src/assocPath.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 09:33:26 +0000     1031 bytes  src/binary.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 09:33:26 +0000     1047 bytes  src/bind.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 09:33:26 +0000     1310 bytes  src/both.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 09:33:26 +0000     1229 bytes  src/call.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 09:33:26 +0000     1203 bytes  src/chain.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 09:33:26 +0000      928 bytes  src/clamp.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 09:33:26 +0000      880 bytes  src/clone.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 09:33:26 +0000      863 bytes  src/comparator.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 09:33:26 +0000      708 bytes  src/complement.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 09:33:26 +0000     1110 bytes  src/compose.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 09:33:26 +0000     1435 bytes  src/composeK.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 09:33:26 +0000     1390 bytes  src/composeP.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 09:33:26 +0000     1344 bytes  src/concat.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 09:33:26 +0000     1616 bytes  src/cond.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 09:33:26 +0000     1245 bytes  src/construct.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 09:33:26 +0000     2248 bytes  src/constructN.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 09:33:26 +0000      779 bytes  src/contains.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 09:33:26 +0000     1582 bytes  src/converge.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-22 09:33:26 +0000     1066 bytes  src/countBy.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-22 09:33:26 +0000     1370 bytes  src/curry.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-22 09:33:26 +0000     1603 bytes  src/curryN.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-22 09:33:26 +0000      282 bytes  src/dec.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-22 09:33:26 +0000      884 bytes  src/defaultTo.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-22 09:33:26 +0000      859 bytes  src/descend.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-22 09:33:26 +0000     1133 bytes  src/difference.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-22 09:33:26 +0000     1281 bytes  src/differenceWith.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-22 09:33:26 +0000      681 bytes  src/dissoc.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-22 09:33:26 +0000     1064 bytes  src/dissocPath.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-22 09:33:26 +0000      600 bytes  src/divide.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-22 09:33:26 +0000     1092 bytes  src/drop.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-22 09:33:26 +0000     1053 bytes  src/dropLast.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-22 09:33:26 +0000     1173 bytes  src/dropLastWhile.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-22 09:33:26 +0000      833 bytes  src/dropRepeats.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-22 09:33:26 +0000     1330 bytes  src/dropRepeatsWith.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-22 09:33:26 +0000     1289 bytes  src/dropWhile.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-22 09:33:26 +0000     1292 bytes  src/either.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-22 09:33:26 +0000     1297 bytes  src/empty.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-22 09:33:26 +0000      554 bytes  src/eqBy.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-22 09:33:26 +0000      761 bytes  src/eqProps.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-22 09:33:26 +0000      758 bytes  src/equals.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-22 09:33:26 +0000     1579 bytes  src/evolve.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-22 09:33:26 +0000     1419 bytes  src/filter.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-22 09:33:26 +0000     1135 bytes  src/find.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-22 09:33:26 +0000     1078 bytes  src/findIndex.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-22 09:33:26 +0000     1068 bytes  src/findLast.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-22 09:33:26 +0000     1092 bytes  src/findLastIndex.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-22 09:33:26 +0000      596 bytes  src/flatten.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-22 09:33:26 +0000      933 bytes  src/flip.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-22 09:33:26 +0000     1492 bytes  src/forEach.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-22 09:33:26 +0000     1077 bytes  src/forEachObjIndexed.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-22 09:33:26 +0000      780 bytes  src/fromPairs.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-22 09:33:26 +0000     1688 bytes  src/groupBy.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-22 09:33:26 +0000     1324 bytes  src/groupWith.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-22 09:33:26 +0000      551 bytes  src/gt.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-22 09:33:26 +0000      580 bytes  src/gte.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-22 09:33:26 +0000      832 bytes  src/has.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-22 09:33:26 +0000      854 bytes  src/hasIn.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-22 09:33:26 +0000      526 bytes  src/head.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-22 09:33:26 +0000      919 bytes  src/identical.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-22 09:33:26 +0000      555 bytes  src/identity.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-22 09:33:26 +0000     1387 bytes  src/ifElse.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-22 09:33:26 +0000      281 bytes  src/inc.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-22 09:33:26 +0000      950 bytes  src/indexBy.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-22 09:33:26 +0000      863 bytes  src/indexOf.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-22 09:33:26 +0000      607 bytes  src/init.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-22 09:33:26 +0000      902 bytes  src/insert.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-22 09:33:26 +0000      997 bytes  src/insertAll.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-22 09:33:26 +0000     4880 bytes  src/internal/_Set.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-22 09:33:26 +0000      268 bytes  src/internal/_aperture.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-22 09:33:26 +0000     1171 bytes  src/internal/_arity.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-22 09:33:26 +0000      170 bytes  src/internal/_arrayFromIterator.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-22 09:33:26 +0000      137 bytes  src/internal/_assign.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-22 09:33:26 +0000      824 bytes  src/internal/_checkForMethod.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-22 09:33:26 +0000     1134 bytes  src/internal/_clone.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-22 09:33:26 +0000      403 bytes  src/internal/_cloneRegExp.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-22 09:33:26 +0000      111 bytes  src/internal/_complement.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-22 09:33:26 +0000      698 bytes  src/internal/_concat.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-22 09:33:26 +0000      126 bytes  src/internal/_contains.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-22 09:33:26 +0000      212 bytes  src/internal/_containsWith.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-22 09:33:26 +0000      311 bytes  src/internal/_createPartialApplicator.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-22 09:33:26 +0000      441 bytes  src/internal/_curry1.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-22 09:33:26 +0000      789 bytes  src/internal/_curry2.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-22 09:33:26 +0000     1584 bytes  src/internal/_curry3.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-22 09:33:26 +0000     1161 bytes  src/internal/_curryN.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-22 09:33:26 +0000     1461 bytes  src/internal/_dispatchable.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-22 09:33:26 +0000      133 bytes  src/internal/_dropLast.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-22 09:33:26 +0000      199 bytes  src/internal/_dropLastWhile.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-22 09:33:26 +0000     2590 bytes  src/internal/_equals.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-22 09:33:26 +0000      238 bytes  src/internal/_filter.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-22 09:33:26 +0000     1008 bytes  src/internal/_flatCat.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-22 09:33:26 +0000      126 bytes  src/internal/_forceReduced.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-22 09:33:26 +0000      211 bytes  src/internal/_functionName.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-22 09:33:26 +0000      401 bytes  src/internal/_functionsWith.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-22 09:33:26 +0000      105 bytes  src/internal/_has.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-22 09:33:26 +0000       54 bytes  src/internal/_identity.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-22 09:33:26 +0000     1424 bytes  src/internal/_indexOf.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-22 09:33:26 +0000      319 bytes  src/internal/_isArguments.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-22 09:33:26 +0000      477 bytes  src/internal/_isArray.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-22 09:33:26 +0000      114 bytes  src/internal/_isFunction.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-22 09:33:26 +0000      219 bytes  src/internal/_isInteger.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-22 09:33:26 +0000      110 bytes  src/internal/_isNumber.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-22 09:33:26 +0000      110 bytes  src/internal/_isObject.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-22 09:33:26 +0000      154 bytes  src/internal/_isPlaceholder.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-22 09:33:26 +0000      110 bytes  src/internal/_isRegExp.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-22 09:33:26 +0000      110 bytes  src/internal/_isString.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-22 09:33:26 +0000      108 bytes  src/internal/_isTransformer.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-22 09:33:26 +0000      740 bytes  src/internal/_makeFlat.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-22 09:33:26 +0000      212 bytes  src/internal/_map.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-22 09:33:26 +0000      628 bytes  src/internal/_objectAssign.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-22 09:33:26 +0000       50 bytes  src/internal/_of.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-22 09:33:26 +0000      121 bytes  src/internal/_pipe.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-22 09:33:26 +0000      182 bytes  src/internal/_pipeP.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-22 09:33:26 +0000      384 bytes  src/internal/_quote.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-22 09:33:26 +0000     1606 bytes  src/internal/_reduce.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-22 09:33:26 +0000      168 bytes  src/internal/_reduced.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-22 09:33:26 +0000     1211 bytes  src/internal/_stepCat.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-22 09:33:26 +0000      716 bytes  src/internal/_toISOString.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-22 09:33:26 +0000     1770 bytes  src/internal/_toString.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-22 09:33:26 +0000      775 bytes  src/internal/_xall.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-22 09:33:26 +0000      775 bytes  src/internal/_xany.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-22 09:33:26 +0000     1118 bytes  src/internal/_xaperture.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-22 09:33:26 +0000      191 bytes  src/internal/_xchain.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-22 09:33:26 +0000      557 bytes  src/internal/_xdrop.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-22 09:33:26 +0000      928 bytes  src/internal/_xdropLast.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-22 09:33:26 +0000     1105 bytes  src/internal/_xdropLastWhile.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-22 09:33:26 +0000      862 bytes  src/internal/_xdropRepeatsWith.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-22 09:33:26 +0000      622 bytes  src/internal/_xdropWhile.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-22 09:33:26 +0000      175 bytes  src/internal/_xfBase.js</tspan>
+<tspan x="10" y="2538">157.  2017-04-22 09:33:26 +0000      526 bytes  src/internal/_xfilter.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-22 09:33:26 +0000      789 bytes  src/internal/_xfind.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-22 09:33:26 +0000      856 bytes  src/internal/_xfindIndex.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-22 09:33:26 +0000      632 bytes  src/internal/_xfindLast.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-22 09:33:26 +0000      732 bytes  src/internal/_xfindLastIndex.js</tspan>
+<tspan x="10" y="2618">162.  2017-04-22 09:33:26 +0000      491 bytes  src/internal/_xmap.js</tspan>
+<tspan x="10" y="2634">163.  2017-04-22 09:33:26 +0000     1261 bytes  src/internal/_xreduceBy.js</tspan>
+<tspan x="10" y="2650">164.  2017-04-22 09:33:26 +0000      637 bytes  src/internal/_xtake.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-22 09:33:26 +0000      592 bytes  src/internal/_xtakeWhile.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-22 09:33:26 +0000      417 bytes  src/internal/_xwrap.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-22 09:33:26 +0000      983 bytes  src/intersection.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-22 09:33:26 +0000     1960 bytes  src/intersectionWith.js</tspan>
+<tspan x="10" y="2730">169.  2017-04-22 09:33:26 +0000      917 bytes  src/intersperse.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-22 09:33:26 +0000     2017 bytes  src/into.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-22 09:33:26 +0000     1035 bytes  src/invert.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-22 09:33:26 +0000     1069 bytes  src/invertObj.js</tspan>
+<tspan x="10" y="2794">173.  2017-04-22 09:33:26 +0000     1566 bytes  src/invoker.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-22 09:33:26 +0000      838 bytes  src/is.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-22 09:33:26 +0000     1133 bytes  src/isArrayLike.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-22 09:33:26 +0000      708 bytes  src/isEmpty.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-22 09:33:26 +0000      524 bytes  src/isNil.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-22 09:33:26 +0000      688 bytes  src/join.js</tspan>
+<tspan x="10" y="2890">179.  2017-04-22 09:33:26 +0000      776 bytes  src/juxt.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-22 09:33:26 +0000     2113 bytes  src/keys.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-22 09:33:26 +0000      804 bytes  src/keysIn.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-22 09:33:26 +0000      463 bytes  src/last.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-22 09:33:26 +0000     1018 bytes  src/lastIndexOf.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-22 09:33:26 +0000      555 bytes  src/length.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-22 09:33:26 +0000     1119 bytes  src/lens.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-22 09:33:26 +0000      779 bytes  src/lensIndex.js</tspan>
+<tspan x="10" y="3018">187.  2017-04-22 09:33:26 +0000      950 bytes  src/lensPath.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-22 09:33:26 +0000      754 bytes  src/lensProp.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-22 09:33:26 +0000      888 bytes  src/lift.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-22 09:33:26 +0000     1018 bytes  src/liftN.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-22 09:33:26 +0000      548 bytes  src/lt.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-22 09:33:26 +0000      577 bytes  src/lte.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-22 09:33:26 +0000     1989 bytes  src/map.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-22 09:33:26 +0000     1465 bytes  src/mapAccum.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-22 09:33:26 +0000     1560 bytes  src/mapAccumRight.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-22 09:33:26 +0000      891 bytes  src/mapObjIndexed.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-22 09:33:26 +0000      942 bytes  src/match.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-22 09:33:26 +0000     1225 bytes  src/mathMod.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-22 09:33:26 +0000      419 bytes  src/max.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-22 09:33:26 +0000      719 bytes  src/maxBy.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-22 09:33:26 +0000      429 bytes  src/mean.js</tspan>
+<tspan x="10" y="3258">202.  2017-04-22 09:33:26 +0000      709 bytes  src/median.js</tspan>
+<tspan x="10" y="3274">203.  2017-04-22 09:33:26 +0000     1227 bytes  src/memoize.js</tspan>
+<tspan x="10" y="3290">204.  2017-04-22 09:33:26 +0000      887 bytes  src/merge.js</tspan>
+<tspan x="10" y="3306">205.  2017-04-22 09:33:26 +0000      673 bytes  src/mergeAll.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-22 09:33:26 +0000     1060 bytes  src/mergeWith.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-22 09:33:26 +0000     1471 bytes  src/mergeWithKey.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-22 09:33:26 +0000      420 bytes  src/min.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-22 09:33:26 +0000      739 bytes  src/minBy.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-22 09:33:26 +0000      791 bytes  src/modulo.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-22 09:33:26 +0000      608 bytes  src/multiply.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-22 09:33:26 +0000     2212 bytes  src/nAry.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-22 09:33:26 +0000      315 bytes  src/negate.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-22 09:33:26 +0000      956 bytes  src/none.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-22 09:33:26 +0000      586 bytes  src/not.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-22 09:33:26 +0000      940 bytes  src/nth.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-22 09:33:26 +0000      672 bytes  src/nthArg.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-22 09:33:26 +0000      651 bytes  src/objOf.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-22 09:33:26 +0000      563 bytes  src/of.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-22 09:33:26 +0000      787 bytes  src/omit.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-22 09:33:26 +0000      967 bytes  src/once.js</tspan>
+<tspan x="10" y="3578">222.  2017-04-22 09:33:26 +0000      615 bytes  src/or.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-22 09:33:26 +0000     1236 bytes  src/over.js</tspan>
+<tspan x="10" y="3610">224.  2017-04-22 09:33:26 +0000      425 bytes  src/pair.js</tspan>
+<tspan x="10" y="3626">225.  2017-04-22 09:33:26 +0000     1146 bytes  src/partial.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-22 09:33:26 +0000     1034 bytes  src/partialRight.js</tspan>
+<tspan x="10" y="3658">227.  2017-04-22 09:33:26 +0000     1094 bytes  src/partition.js</tspan>
+<tspan x="10" y="3674">228.  2017-04-22 09:33:26 +0000      731 bytes  src/path.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-22 09:33:26 +0000     1103 bytes  src/pathEq.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-22 09:33:26 +0000      849 bytes  src/pathOr.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-22 09:33:26 +0000      694 bytes  src/pathSatisfies.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-22 09:33:26 +0000      904 bytes  src/pick.js</tspan>
+<tspan x="10" y="3754">233.  2017-04-22 09:33:26 +0000      908 bytes  src/pickAll.js</tspan>
+<tspan x="10" y="3770">234.  2017-04-22 09:33:26 +0000      913 bytes  src/pickBy.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-22 09:33:26 +0000     1027 bytes  src/pipe.js</tspan>
+<tspan x="10" y="3802">236.  2017-04-22 09:33:26 +0000     1278 bytes  src/pipeK.js</tspan>
+<tspan x="10" y="3818">237.  2017-04-22 09:33:26 +0000      941 bytes  src/pipeP.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-22 09:33:26 +0000      833 bytes  src/pluck.js</tspan>
+<tspan x="10" y="3850">239.  2017-04-22 09:33:26 +0000      654 bytes  src/prepend.js</tspan>
+<tspan x="10" y="3866">240.  2017-04-22 09:33:26 +0000      446 bytes  src/product.js</tspan>
+<tspan x="10" y="3882">241.  2017-04-22 09:33:26 +0000      882 bytes  src/project.js</tspan>
+<tspan x="10" y="3898">242.  2017-04-22 09:33:26 +0000      568 bytes  src/prop.js</tspan>
+<tspan x="10" y="3914">243.  2017-04-22 09:33:26 +0000      950 bytes  src/propEq.js</tspan>
+<tspan x="10" y="3930">244.  2017-04-22 09:33:26 +0000      681 bytes  src/propIs.js</tspan>
+<tspan x="10" y="3946">245.  2017-04-22 09:33:26 +0000     1008 bytes  src/propOr.js</tspan>
+<tspan x="10" y="3962">246.  2017-04-22 09:33:26 +0000      576 bytes  src/propSatisfies.js</tspan>
+<tspan x="10" y="3978">247.  2017-04-22 09:33:26 +0000      906 bytes  src/props.js</tspan>
+<tspan x="10" y="3994">248.  2017-04-22 09:33:26 +0000      840 bytes  src/range.js</tspan>
+<tspan x="10" y="4010">249.  2017-04-22 09:33:26 +0000     1822 bytes  src/reduce.js</tspan>
+<tspan x="10" y="4026">250.  2017-04-22 09:33:26 +0000     2329 bytes  src/reduceBy.js</tspan>
+<tspan x="10" y="4042">251.  2017-04-22 09:33:26 +0000     1879 bytes  src/reduceRight.js</tspan>
+<tspan x="10" y="4058">252.  2017-04-22 09:33:26 +0000     1411 bytes  src/reduceWhile.js</tspan>
+<tspan x="10" y="4074">253.  2017-04-22 09:33:26 +0000      836 bytes  src/reduced.js</tspan>
+<tspan x="10" y="4090">254.  2017-04-22 09:33:26 +0000      769 bytes  src/reject.js</tspan>
+<tspan x="10" y="4106">255.  2017-04-22 09:33:26 +0000      908 bytes  src/remove.js</tspan>
+<tspan x="10" y="4122">256.  2017-04-22 09:33:26 +0000      848 bytes  src/repeat.js</tspan>
+<tspan x="10" y="4138">257.  2017-04-22 09:33:26 +0000      895 bytes  src/replace.js</tspan>
+<tspan x="10" y="4154">258.  2017-04-22 09:33:26 +0000      890 bytes  src/reverse.js</tspan>
+<tspan x="10" y="4170">259.  2017-04-22 09:33:26 +0000      966 bytes  src/scan.js</tspan>
+<tspan x="10" y="4186">260.  2017-04-22 09:33:26 +0000     1280 bytes  src/sequence.js</tspan>
+<tspan x="10" y="4202">261.  2017-04-22 09:33:26 +0000      771 bytes  src/set.js</tspan>
+<tspan x="10" y="4218">262.  2017-04-22 09:33:26 +0000     1147 bytes  src/slice.js</tspan>
+<tspan x="10" y="4234">263.  2017-04-22 09:33:26 +0000      925 bytes  src/sort.js</tspan>
+<tspan x="10" y="4250">264.  2017-04-22 09:33:26 +0000     1170 bytes  src/sortBy.js</tspan>
+<tspan x="10" y="4266">265.  2017-04-22 09:33:26 +0000     1129 bytes  src/sortWith.js</tspan>
+<tspan x="10" y="4282">266.  2017-04-22 09:33:26 +0000      686 bytes  src/split.js</tspan>
+<tspan x="10" y="4298">267.  2017-04-22 09:33:26 +0000      802 bytes  src/splitAt.js</tspan>
+<tspan x="10" y="4314">268.  2017-04-22 09:33:26 +0000      792 bytes  src/splitEvery.js</tspan>
+<tspan x="10" y="4330">269.  2017-04-22 09:33:26 +0000     1029 bytes  src/splitWhen.js</tspan>
+<tspan x="10" y="4346">270.  2017-04-22 09:33:26 +0000      685 bytes  src/subtract.js</tspan>
+<tspan x="10" y="4362">271.  2017-04-22 09:33:26 +0000      415 bytes  src/sum.js</tspan>
+<tspan x="10" y="4378">272.  2017-04-22 09:33:26 +0000      852 bytes  src/symmetricDifference.js</tspan>
+<tspan x="10" y="4394">273.  2017-04-22 09:33:26 +0000     1190 bytes  src/symmetricDifferenceWith.js</tspan>
+<tspan x="10" y="4410">274.  2017-04-22 09:33:26 +0000      864 bytes  src/tail.js</tspan>
+<tspan x="10" y="4426">275.  2017-04-22 09:33:26 +0000     1575 bytes  src/take.js</tspan>
+<tspan x="10" y="4442">276.  2017-04-22 09:33:26 +0000      941 bytes  src/takeLast.js</tspan>
+<tspan x="10" y="4458">277.  2017-04-22 09:33:26 +0000      980 bytes  src/takeLastWhile.js</tspan>
+<tspan x="10" y="4474">278.  2017-04-22 09:33:26 +0000     1306 bytes  src/takeWhile.js</tspan>
+<tspan x="10" y="4490">279.  2017-04-22 09:33:26 +0000      587 bytes  src/tap.js</tspan>
+<tspan x="10" y="4506">280.  2017-04-22 09:33:26 +0000      810 bytes  src/test.js</tspan>
+<tspan x="10" y="4522">281.  2017-04-22 09:33:26 +0000     1125 bytes  src/times.js</tspan>
+<tspan x="10" y="4538">282.  2017-04-22 09:33:26 +0000      390 bytes  src/toLower.js</tspan>
+<tspan x="10" y="4554">283.  2017-04-22 09:33:26 +0000      850 bytes  src/toPairs.js</tspan>
+<tspan x="10" y="4570">284.  2017-04-22 09:33:26 +0000      880 bytes  src/toPairsIn.js</tspan>
+<tspan x="10" y="4586">285.  2017-04-22 09:33:26 +0000     1402 bytes  src/toString.js</tspan>
+<tspan x="10" y="4602">286.  2017-04-22 09:33:26 +0000      390 bytes  src/toUpper.js</tspan>
+<tspan x="10" y="4618">287.  2017-04-22 09:33:26 +0000     2340 bytes  src/transduce.js</tspan>
+<tspan x="10" y="4634">288.  2017-04-22 09:33:26 +0000     1261 bytes  src/transpose.js</tspan>
+<tspan x="10" y="4650">289.  2017-04-22 09:33:26 +0000     1160 bytes  src/traverse.js</tspan>
+<tspan x="10" y="4666">290.  2017-04-22 09:33:26 +0000     1114 bytes  src/trim.js</tspan>
+<tspan x="10" y="4682">291.  2017-04-22 09:33:26 +0000     1301 bytes  src/tryCatch.js</tspan>
+<tspan x="10" y="4698">292.  2017-04-22 09:33:26 +0000      903 bytes  src/type.js</tspan>
+<tspan x="10" y="4714">293.  2017-04-22 09:33:26 +0000      838 bytes  src/unapply.js</tspan>
+<tspan x="10" y="4730">294.  2017-04-22 09:33:26 +0000      990 bytes  src/unary.js</tspan>
+<tspan x="10" y="4746">295.  2017-04-22 09:33:26 +0000     1089 bytes  src/uncurryN.js</tspan>
+<tspan x="10" y="4762">296.  2017-04-22 09:33:26 +0000     1286 bytes  src/unfold.js</tspan>
+<tspan x="10" y="4778">297.  2017-04-22 09:33:26 +0000      647 bytes  src/union.js</tspan>
+<tspan x="10" y="4794">298.  2017-04-22 09:33:26 +0000     1023 bytes  src/unionWith.js</tspan>
+<tspan x="10" y="4810">299.  2017-04-22 09:33:26 +0000      562 bytes  src/uniq.js</tspan>
+<tspan x="10" y="4826">300.  2017-04-22 09:33:26 +0000     1072 bytes  src/uniqBy.js</tspan>
+<tspan x="10" y="4842">301.  2017-04-22 09:33:26 +0000     1204 bytes  src/uniqWith.js</tspan>
+<tspan x="10" y="4858">302.  2017-04-22 09:33:26 +0000     1186 bytes  src/unless.js</tspan>
+<tspan x="10" y="4874">303.  2017-04-22 09:33:26 +0000      565 bytes  src/unnest.js</tspan>
+<tspan x="10" y="4890">304.  2017-04-22 09:33:26 +0000      823 bytes  src/until.js</tspan>
+<tspan x="10" y="4906">305.  2017-04-22 09:33:26 +0000      979 bytes  src/update.js</tspan>
+<tspan x="10" y="4922">306.  2017-04-22 09:33:26 +0000     1768 bytes  src/useWith.js</tspan>
+<tspan x="10" y="4938">307.  2017-04-22 09:33:26 +0000      767 bytes  src/values.js</tspan>
+<tspan x="10" y="4954">308.  2017-04-22 09:33:26 +0000      803 bytes  src/valuesIn.js</tspan>
+<tspan x="10" y="4970">309.  2017-04-22 09:33:26 +0000     1037 bytes  src/view.js</tspan>
+<tspan x="10" y="4986">310.  2017-04-22 09:33:26 +0000     1293 bytes  src/when.js</tspan>
+<tspan x="10" y="5002">311.  2017-04-22 09:33:26 +0000     1453 bytes  src/where.js</tspan>
+<tspan x="10" y="5018">312.  2017-04-22 09:33:26 +0000     1100 bytes  src/whereEq.js</tspan>
+<tspan x="10" y="5034">313.  2017-04-22 09:33:26 +0000      798 bytes  src/without.js</tspan>
+<tspan x="10" y="5050">314.  2017-04-22 09:33:26 +0000      959 bytes  src/xprod.js</tspan>
+<tspan x="10" y="5066">315.  2017-04-22 09:33:26 +0000      981 bytes  src/zip.js</tspan>
+<tspan x="10" y="5082">316.  2017-04-22 09:33:26 +0000      930 bytes  src/zipObj.js</tspan>
+<tspan x="10" y="5098">317.  2017-04-22 09:33:26 +0000     1138 bytes  src/zipWith.js</tspan>
+<tspan x="10" y="5114">318.  2017-04-22 09:33:26 +0000  1316646 bytes  tmp-test-bundle.js</tspan>
 </text>
 </svg>
